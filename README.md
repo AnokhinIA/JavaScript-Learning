@@ -29,4 +29,4 @@
 2. Сергей,
 
 ## Литература
-[Дэвид Флэнаган, "JavaScript Подробное руководство, 5-е издание", Санкт-Петербург-Москва, 2008, ISBN 10: 5 93286 103 7](https://cloud.mail.ru/public/Jbn1/n68grmZrmhttps://cloud.mail.ru/public/Jbn1/n68grmZrm)
+[Дэвид Флэнаган, "JavaScript Подробное руководство, 5-е издание", Санкт-Петербург-Москва, 2008, ISBN 10: 5 93286 103 7](https://cloud.mail.ru/public/Jbn1/n68grmZrm)
